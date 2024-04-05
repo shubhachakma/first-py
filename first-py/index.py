@@ -24,4 +24,17 @@ thisdict = {
   "model": "Mustang",
   "year": 1964
 }
-print(thisdict)
+#print(thisdict)
+#a=float(input('enter first side:'))
+
+#b=float(input('enter first side:'))
+#c=float(input('enter first side:'))
+#s=(a+b+c) /2
+#area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
+#print(area)
+#print('the area of the triangle is %0.2f' %area)
+
+val1 = int(input('enter first input:'))
+val2 = int(input('enter second input:'))
+res = val1 - val2
+#print(res)
